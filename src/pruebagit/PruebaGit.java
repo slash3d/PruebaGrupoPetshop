@@ -17,6 +17,7 @@ public class PruebaGit {
     public static void main(String[] args) {
         int gg = 0;
         int nuevo = 0;
+        int a= 1;
     }
     
 }
