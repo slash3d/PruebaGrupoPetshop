@@ -18,6 +18,7 @@ public class PruebaGit {
         int gg = 0;
         int nuevo = 0;
         int kk = 3;
+        int ggg = 2;
     }
     
 }
